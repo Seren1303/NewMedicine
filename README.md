@@ -1,2 +1,2 @@
 # NewMedicine
-This python code is 2nd newmedicine developer. 
+This python code was maken by 2nd newmedicine development.
